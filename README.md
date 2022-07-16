@@ -5,7 +5,7 @@
 </head>
 <body>
 	<div align="center">
-		<img src="./EjercicioMentoriaJS.PNG" style="width: 200px;">
+		<img src="./EjercicioMentoriaJS.PNG">
     </div>
 </body>
 </html>
