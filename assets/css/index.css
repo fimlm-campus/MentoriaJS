@@ -1,0 +1,4 @@
+body{ text-align: center; padding-top: 1%; color: rgb(40, 40, 40); }
+#LogoJS{ max-width: 100px; }
+#LogoCampus{ position: fixed; bottom: 20px; right: 15px; max-width: 200px; }
+#avatarUser{ width: 60px; height: 60px; border-radius: 50px; }
